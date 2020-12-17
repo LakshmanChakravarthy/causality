@@ -12,4 +12,7 @@ In this perspective Marinescu, Lawlor and Kording suggest the adoption of causal
 
 2. _Difference-in-differences_
 
+* [Mostly Harmless Econometrics: An Empiricist’s Companion](https://1lib.in/book/904920/4505a2)
+* [Identification and inference in nonlinear difference-in-differences models](https://www.nber.org/system/files/working_papers/t0280/t0280.pdf)
+
 3. -_Instrumental variables_
