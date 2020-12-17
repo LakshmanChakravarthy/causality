@@ -12,7 +12,7 @@ In this perspective Marinescu, Lawlor and Kording suggest the adoption of causal
 * [Mostly Harmless Econometrics: An Empiricist’s Companion](https://1lib.in/book/904920/4505a2)
 * [Identification and inference in nonlinear difference-in-differences models](https://www.nber.org/system/files/working_papers/t0280/t0280.pdf)
 
-3. -_Instrumental variables_
+3. _Instrumental variables_
 * [Testing for Weak Instruments in Linear IV Regression](https://www.nber.org/system/files/working_papers/t0284/t0284.pdf)
 * [Mostly Harmless Econometrics: An Empiricist’s Companion](https://1lib.in/book/904920/4505a2)
 
