@@ -27,7 +27,7 @@ Other suggested techniques:
 
 # Perspectives in Cognitive Neuroscience
 
-### [Causality in cognitive neuroscience: concepts, challenges, and distributional robustness]()
+### [Causality in cognitive neuroscience: concepts, challenges, and distributional robustness]() by Sebastian Weichwald, Jonas Peters
 
 * * *
 
