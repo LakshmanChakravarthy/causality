@@ -33,9 +33,9 @@ Other suggested techniques:
 
 # On Granger Causality
 
-### * [Granger causality analysis in neuroscience and neuroimaging](https://www.jneurosci.org/content/35/8/3293?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JNeurosci_TrendMD_1) by **Anil K. Seth, Adam B. Barrett and Lionel Barnett**
+### [Granger causality analysis in neuroscience and neuroimaging](https://www.jneurosci.org/content/35/8/3293?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JNeurosci_TrendMD_1) by **Anil K. Seth, Adam B. Barrett and Lionel Barnett**
 
-### * [A study of problems encountered in Granger causality analysis from a neuroscience perspective](https://www.pnas.org/content/114/34/E7063?etoc=) by **Patrick A. Stokes and Patrick L. Purdon**
+### [A study of problems encountered in Granger causality analysis from a neuroscience perspective](https://www.pnas.org/content/114/34/E7063?etoc=) by **Patrick A. Stokes and Patrick L. Purdon**
 
-### * [Solved problems for Granger causality in neuroscience: A response to Stokes and Purdon](https://www.sciencedirect.com/science/article/pii/S1053811918304932?casa_token=jG1OVWoDfN0AAAAA:LYdojtFljrDLLVVE_mVsyIOzTyA5X5TDlYDwTeFY9Yx_qGTQ7-VXqmzMHh6FO1F4uFztHOG9vQ) by **Lionel Barnett, Adam B.Barrett and Anil K.Seth**
+### [Solved problems for Granger causality in neuroscience: A response to Stokes and Purdon](https://www.sciencedirect.com/science/article/pii/S1053811918304932?casa_token=jG1OVWoDfN0AAAAA:LYdojtFljrDLLVVE_mVsyIOzTyA5X5TDlYDwTeFY9Yx_qGTQ7-VXqmzMHh6FO1F4uFztHOG9vQ) by **Lionel Barnett, Adam B.Barrett and Anil K.Seth**
 
