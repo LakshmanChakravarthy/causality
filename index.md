@@ -4,10 +4,12 @@
 
 In this perspective Marinescu, Lawlor and Kording suggest the adoption of causal inference techniques by neuroscience that proved useful in econometrics. Particularly, they reflect on these techniques:
 
-- _Regression discontinuity design_
+1. _Regression discontinuity design_
 
-  -Regression discontinuity designs: a guide to practice
+* [Regression discontinuity designs: a guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091?casa_token=RElBf9DR82gAAAAA:Nzhc3c9K0-VNw9UW8AFKNsUusGDLYk27RAQwa5_R-JHD-TA0oahlgJ9bdMuV8cRqPQ45I3CG7g)
 
--_Difference-in-differences_
+* [A practical guide to regression discontinuity](https://www.mdrc.org/publication/practical-guide-regression-discontinuity)
 
--_Instrumental variables_
+2. _Difference-in-differences_
+
+3. -_Instrumental variables_
