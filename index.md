@@ -17,8 +17,13 @@ In this perspective Marinescu, Lawlor and Kording suggest the adoption of causal
 * [Mostly Harmless Econometrics: An Empiricist’s Companion](https://1lib.in/book/904920/4505a2)
 
 Other suggested techniques:
-* _Bayesian networks_ : [Probabilistic Graphical Models: Principles and Techniques](https://1lib.in/book/1317364/b03608)
-* _Structural equation modelling_ : [Taking the dogma out of econometrics: structural modeling and credible inference](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.69)
-* _Propensity score matching_ : [Propensity score-matching methods for nonexperimental causal studies](https://www.nber.org/system/files/working_papers/w6829/w6829.pdf)
-* _Using noise distributions_ : [Nonlinear causal discovery with additive noise models](https://papers.nips.cc/paper/2008/file/f7664060cc52bc6f3d620bcedc94a4b6-Paper.pdf)
-* _Using synthetic controls_ : [Synthetic control methods for comparative case studies: estimating the effect of California’s tobacco control program](https://www.nber.org/system/files/working_papers/w12831/w12831.pdf)
+* _Bayesian networks_ : 
+  [Probabilistic Graphical Models: Principles and Techniques](https://1lib.in/book/1317364/b03608)
+* _Structural equation modelling_ : 
+  [Taking the dogma out of econometrics: structural modeling and credible inference](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.69)
+* _Propensity score matching_ : 
+  [Propensity score-matching methods for nonexperimental causal studies](https://www.nber.org/system/files/working_papers/w6829/w6829.pdf)
+* _Using noise distributions_ : 
+  [Nonlinear causal discovery with additive noise models](https://papers.nips.cc/paper/2008/file/f7664060cc52bc6f3d620bcedc94a4b6-Paper.pdf)
+* _Using synthetic controls_ : 
+  [Synthetic control methods for comparative case studies: estimating the effect of California’s tobacco control program](https://www.nber.org/system/files/working_papers/w12831/w12831.pdf)
